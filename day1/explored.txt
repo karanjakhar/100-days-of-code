@@ -1,0 +1,4 @@
+Reinforcement learning
+Watching YouTube Series from deeplizard link : https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv
+
+I used this command mkdir day{1..100} to create 100 directories with name day1 to day100. This is a Ubuntu terminal command not sure if it will work on Windows. Still you should try. What wrong it can cause.
