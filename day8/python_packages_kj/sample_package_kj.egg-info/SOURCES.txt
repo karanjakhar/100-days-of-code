@@ -1,0 +1,9 @@
+README.md
+setup.py
+sample_package_kj/__init__.py
+sample_package_kj/birds.py
+sample_package_kj/mammals.py
+sample_package_kj.egg-info/PKG-INFO
+sample_package_kj.egg-info/SOURCES.txt
+sample_package_kj.egg-info/dependency_links.txt
+sample_package_kj.egg-info/top_level.txt
